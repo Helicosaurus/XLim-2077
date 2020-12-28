@@ -1,0 +1,11 @@
+10
+2   <<<P F
+V    A   F
+       XXX
+  >   XX3X
+XXXXXXX1FS
+      XX2X
+   X  1XXX
+  A  X X O
+XP     X X
+    XA X3X

@@ -1,0 +1,11 @@
+10
+AAA   X O 
+AXAX      
+APA       
+A AS   X  
+          
+X    X    
+  X XP   X
+      X   
+ X  P     
+        X 

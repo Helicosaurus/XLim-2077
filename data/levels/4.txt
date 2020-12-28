@@ -1,0 +1,11 @@
+10
+XF>>>>OXXX
+X^F>>>>>>F
+X^^F>>>>FV
+X^^^F>>FVV
+AS  PFAVVV
+A^^^FFAVVV
+X^^F<<<FVV
+X^F<<<<<FV
+XF<<<<<<<F
+XXXXXXXXXX

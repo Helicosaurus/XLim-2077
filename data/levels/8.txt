@@ -1,0 +1,21 @@
+20
+A           X      A
+    F   F  XX     X 
+             XXS    
+  XAF   ^   PX  AA  
+       X    <   AA  
+  P         X      X
+  F>           X    
+    X    X          
+         X    F     
+ X        V   A     
+     X    V   X     
+          V         
+          V         
+      X         XXX 
+    X    PX    XOO  
+       X        XX  
+     X  X       OOX 
+ X    X        XXX  
+       O            
+A                  A

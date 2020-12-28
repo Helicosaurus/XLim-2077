@@ -1,0 +1,21 @@
+20
+F       FAA      X  
+  X 0    AA   X     
+   > >  FAA X     X 
+   ^ > X AA         
+   ^     AA  P      
+ X     P AA       SX
+    5 XXXXXXXX      
+F     X524916XX  XX 
+   8  XVVVVVVX 3    
+AAAAAAX  OO  XAAAAAA
+AAAAAAX  OO  XAAAAAA
+  3  ^XVVVVVVX    8 
+     VX619042X  F   
+ V P  XXXXXXXX      
+   >     AA     F   
+^   >  V AA  PF   F 
+7 <   V  AAF       7
+^        AA  F  F   
+^    < >^AA   F   F 
+F<<<F ^  AA         
